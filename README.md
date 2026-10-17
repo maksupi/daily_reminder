@@ -5,5 +5,4 @@ Aplikasi Flutter untuk mencatat tugas harian: mendaftarkan tugas dengan tenggat 
 Data disimpan di memori, hilang saat aplikasi ditutup.
 
 ## Bug yang sempat membuat saya mentok
-
-bentar dulu men
+ masih terdapat bug di bagian kalender yaitu masih menggunakan bahasa inggris, bug inin saya sadari ketika menjalankan aplikasi, saya sudah mencoba memperbaikinya tapi tidak berubah, akan saya cari solusi untuk bug ini sceeatnya
